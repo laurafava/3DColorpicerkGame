@@ -9,6 +9,9 @@ Furthermore there are various amounts of Cubes appearing on the screen and three
 
 
 adding more cubes:
+
+
+
 ![](morecubes.gif)
 
 
