@@ -17,6 +17,9 @@ adding more cubes:
 
 FUTURE ADDITIONS
 The Visual designing of the game can be improved -> Nicer display of the Menubar
+
 adding a slider for the amount of cubes appearing on screen
+
 Adding an animation, when winning or loosing instead of just a small window
+
 improving the Gameplay  -> having different figures (sphaere, cylinder...)
