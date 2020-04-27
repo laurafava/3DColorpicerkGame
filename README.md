@@ -6,3 +6,7 @@ To add additional complexity, the cubes change their shape and size when the mou
 Furthermore there are various amounts of Cubes appearing on the screen and three Levels of difficulties. 
 
 ![](gameplay.gif)
+
+
+
+
